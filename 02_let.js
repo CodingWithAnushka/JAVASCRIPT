@@ -1,0 +1,4 @@
+let city = "Delhi";
+ console.log(city); 
+  city = "Mumbai";  
+  console.log(city); 
