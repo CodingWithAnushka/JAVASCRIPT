@@ -1,0 +1,1 @@
+onsole.log(Math.max(5,10,15)); 
